@@ -1,0 +1,9 @@
+C:\Users\Zakaria\Documents\Visual Studio 2013\Projects\OnlineShopping\AspNetPractice\AspNetPractice\bin\AspNetPractice.dll.config
+C:\Users\Zakaria\Documents\Visual Studio 2013\Projects\OnlineShopping\AspNetPractice\AspNetPractice\bin\AspNetPractice.dll
+C:\Users\Zakaria\Documents\Visual Studio 2013\Projects\OnlineShopping\AspNetPractice\AspNetPractice\bin\AspNetPractice.pdb
+C:\Users\Zakaria\Documents\Visual Studio 2013\Projects\OnlineShopping\AspNetPractice\AspNetPractice\bin\AspNetPractice.xml
+C:\Users\Zakaria\Documents\Visual Studio 2013\Projects\OnlineShopping\AspNetPractice\AspNetPractice\obj\Debug\AspNetPractice.Resources.resources
+C:\Users\Zakaria\Documents\Visual Studio 2013\Projects\OnlineShopping\AspNetPractice\AspNetPractice\obj\Debug\AspNetPractice.vbproj.GenerateResource.Cache
+C:\Users\Zakaria\Documents\Visual Studio 2013\Projects\OnlineShopping\AspNetPractice\AspNetPractice\obj\Debug\AspNetPractice.dll
+C:\Users\Zakaria\Documents\Visual Studio 2013\Projects\OnlineShopping\AspNetPractice\AspNetPractice\obj\Debug\AspNetPractice.xml
+C:\Users\Zakaria\Documents\Visual Studio 2013\Projects\OnlineShopping\AspNetPractice\AspNetPractice\obj\Debug\AspNetPractice.pdb
